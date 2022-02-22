@@ -1,4 +1,4 @@
-# kevinschmidlin.github.io
+# kevin.is()
 
 A personal website made over the summer vacation to improve my knowledge of front-end development.
 
