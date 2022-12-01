@@ -4,8 +4,8 @@ A personal website made over the summer vacation to improve my knowledge of fron
 
 ## Roadmap
 
-- [] Image slider
-- [] reCAPTCHA
+- [ ] Image slider
+- [ ] reCAPTCHA
 
 ## Acknowledgments
 
