@@ -303,6 +303,7 @@ img {
   from {
     width: 0;
   }
+
   to {
     width: 100%;
   }
@@ -312,6 +313,7 @@ img {
   from {
     border-color: transparent;
   }
+
   to {
     border-color: var(--title-color);
   }
@@ -702,6 +704,7 @@ img {
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
   }
+
   .nav__menu {
     padding: 2rem 0.25rem 4rem;
   }
@@ -709,6 +712,7 @@ img {
   .nav__list {
     column-gap: 0;
   }
+
   .home__content {
     grid-template-columns: 0.25fr 3fr;
   }
@@ -730,9 +734,11 @@ img {
   .home__content {
     grid-template-columns: max-content 1fr 1fr;
   }
+
   .home__data {
     grid-column: initial;
   }
+
   .home__img {
     order: 1;
     justify-self: center;
@@ -871,6 +877,7 @@ img {
 }
 
 @media screen and (min-width: 1024px) {
+
   .header,
   .main,
   .footer__container {
