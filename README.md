@@ -6,7 +6,7 @@ A personal website made over the summer vacation to improve my knowledge of fron
 
 - [ ] Image slider
 - [ ] reCAPTCHA
-- [ ] Cipher challenge
+- [x] Cipher challenge
 
 ## Acknowledgments
 
